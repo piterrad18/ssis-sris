@@ -1,2 +1,5 @@
 # ssis-sris
-DWH_package
+My first project in SSIS
+
+yolo
+stand by me
